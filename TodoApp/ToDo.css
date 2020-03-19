@@ -1,0 +1,6 @@
+.alert {
+    text-transform: capitalize;
+    font-style: oblique;
+    font-family: 'Segoe UI';
+    color:black;
+}
