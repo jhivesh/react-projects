@@ -1,0 +1,52 @@
+.col-sm-1{
+  padding-left: 20px;
+  padding-top: 1px;
+  margin-top: 1px;
+  margin-left: 1px;
+  margin-right: 1px;
+  margin :1%;
+}
+body {
+  height: 95vh;
+  width: 95vw;
+  background-color:ivory;
+  font-size: 20px;
+}
+.jumbotron{
+  text-align: center;
+}
+
+button{
+  padding: 20px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    display: inline-block;
+    margin: 1px;
+    text-align: center;
+    text-decoration: teal;
+    border: 1.5px solid black;
+    cursor: grab;
+    content: 50%;
+  height: 70px;
+  width: 70px;
+  text-decoration-color: teal;
+
+}
+
+#calculator{
+  padding-left :  400px;
+}
+.entry button {
+  font-size:36px;
+  color:#000;
+  font-weight:800;
+}
+.entry button:hover{
+  color:#f00;
+}
+#zero{
+  padding-right: 20px;
+}
+
+

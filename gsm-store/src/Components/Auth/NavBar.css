@@ -1,0 +1,7 @@
+#button{
+    width:80px;height: 30px;border-radius: 15px;}
+
+.navbar navbar-light navbar-expand-lg bg-light a:hover {
+        background-color: #ddd;
+        color: black;
+      }
